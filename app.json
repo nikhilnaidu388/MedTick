@@ -1,6 +1,9 @@
 {
   "expo": {
     "name": "AwesomeProject",
+    "plugins": [
+      "@notifee/react-native"
+    ],
     "slug": "AwesomeProject",
     "version": "1.0.0",
     "orientation": "portrait",
